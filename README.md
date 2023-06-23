@@ -25,8 +25,3 @@ Encryption: Protect the recorded data with advanced encryption techniques to ens
 - sounddevice
 
 
-
-## Authors
-
-- [@textpriyam](https://www.github.com/textpriyam)
-
